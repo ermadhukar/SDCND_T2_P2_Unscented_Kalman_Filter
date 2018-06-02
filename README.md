@@ -11,7 +11,7 @@ In this project an Unscented Kalman Filter is used to estimate the state of a mo
 4. uWebSocketIO can be installed by: install-ubuntu.sh
 
     
-Once the install for uWebSocketIO is complete, the main program can be built and run by doing the following from the project top directory.
+Once the installation for uWebSocketIO is complete, the main program can be built and run by doing the following from the project top directory.
 
 1. mkdir build
 2. cd build
@@ -19,7 +19,7 @@ Once the install for uWebSocketIO is complete, the main program can be built and
 4. make
 5. ./UnscentedKF
 
-
+Output can be visualize using the Simulator as below:
 
 # Output
 ![](https://github.com/ermadhukar/SDCND_T2_P2_Unscented_Kalman_Filter/blob/master/T2P2_UKF.png)
